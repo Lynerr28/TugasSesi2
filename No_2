@@ -1,0 +1,3 @@
+Class atau kelas adalah sekelompok objek yang memiliki kesamaan. 
+Sedangkan, object atau objek adalah suatu entitas baik real maupun abstrak yang dapat diidentifikasi dan direpresentasikan. 
+Dengan kata lain, Class merupakan Sebuah Kumpulan dari beberapa Object yang dapat menampung variable. sementara Object merupakan bagian dinamis dari class.
