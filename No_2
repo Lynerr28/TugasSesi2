@@ -1,0 +1,2 @@
+Setter (mutator) dan Getter (Accssor). Setter digunakan untuk memberikan nilai ataupun untuk menampilkan nilai dari variable. 
+Getter digunakan untuk mengambil nilai variabel dengan cara melakukan return value.
