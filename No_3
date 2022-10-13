@@ -1,0 +1,8 @@
+Nama class
+Atribut
+fungsi setter untuk memberikan nilai jenis komputer dan merk komputer
+fungsi getter untuk mengambil nilai jenis komputer
+fungsi getter untuk mengambil nilai merk
+pembuatan objek dari class komputer
+melakukan pemberian nilai pada objek yang sudah dibuat dengan parameter "LAPTOP" dan "MACBOK"
+menampilkan jenis dan merek di console dengan cara melakukan fungsi getter
